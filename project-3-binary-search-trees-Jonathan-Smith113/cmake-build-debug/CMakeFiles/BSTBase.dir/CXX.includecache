@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jujun/CLionProjects/project-3-binary-search-trees-Jonathan-Smith113/BinarySearchTree.h
+TreeNode.h
+C:/Users/jujun/CLionProjects/project-3-binary-search-trees-Jonathan-Smith113/TreeNode.h
+vector
+-
+math.h
+C:/Users/jujun/CLionProjects/project-3-binary-search-trees-Jonathan-Smith113/math.h
+
+C:/Users/jujun/CLionProjects/project-3-binary-search-trees-Jonathan-Smith113/TreeNode.h
+
+C:/Users/jujun/CLionProjects/project-3-binary-search-trees-Jonathan-Smith113/main.cpp
+iostream
+-
+BinarySearchTree.h
+C:/Users/jujun/CLionProjects/project-3-binary-search-trees-Jonathan-Smith113/BinarySearchTree.h
+cassert
+-
+vector
+-
+string
+-
+sstream
+-
+
